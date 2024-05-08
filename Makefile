@@ -46,7 +46,7 @@ TARGET=APP_CYW9P62S1-43438EVB-01
 #
 # If APPNAME is edited, ensure to update or regenerate launch
 # configurations for your IDE.
-APPNAME=mtb-example-psoc6-bmi160-motion-sensor-freertos
+APPNAME=mtb-psoc6-dht11-freertos
 
 # Name of toolchain to use. Options include:
 #
